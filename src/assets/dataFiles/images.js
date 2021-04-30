@@ -1,3 +1,4 @@
+/* eslint-disable no-useless-escape */
 import anneFrank from '../images/anneFrank.jpg'
 import arial from '../images/arial.jpg'
 import campPlans from '../images/campPlans.jpg'
