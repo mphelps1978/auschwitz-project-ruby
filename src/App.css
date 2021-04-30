@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.gallery-resize {
+  max-width: 15%;
+  max-height: 50%;
+  width: auto;
+  height: auto
+}
