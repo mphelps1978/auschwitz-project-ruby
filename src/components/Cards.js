@@ -34,7 +34,6 @@ export default function SimpleCard(props) {
         <Typography variant="body2" component="p">
           {props.fact}
           <br />
-          {'"a benevolent smile"'}
         </Typography>
       </CardContent>
     </Card>
